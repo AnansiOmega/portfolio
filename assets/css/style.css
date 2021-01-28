@@ -1305,3 +1305,10 @@ blockquote {
     margin-right: 0;
   }
 }
+
+
+img.mobile-photo {
+  height: 40rem !important;
+  width: auto !important;
+  margin: 0 auto !important;
+}
